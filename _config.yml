@@ -1,3 +1,6 @@
+---
+title: sysctl human.brain=0
+description: /dev/urandom stuff from a UNIX guy
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
